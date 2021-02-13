@@ -1,5 +1,9 @@
 /**
- * An awesome class that pushes to Git
+ * An awesome class that pushes to Git.
  */
 public class GitPusher {
+
+    public void doNothing() {
+        
+    }
 }
